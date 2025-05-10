@@ -20,6 +20,7 @@ decord
 natsort
 # setuptools==69.5.1
 setuptools
+rich
 
 # cosyvoice2
 pyworld
